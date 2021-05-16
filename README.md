@@ -5,8 +5,9 @@ ____________________________________
           - Arrays: 
                     - Accessing index:  O(1)
                     - Inserting, Deleting, Modifying:  O(n)
-          - Linked List
+          - Linked List:
                     - Accessing index, Inserting, Deleting:  O(n)
+          - For Loop:  Each 'For' costs O(n)
 
 ____________________________________
 ## Terms:
@@ -20,7 +21,18 @@ ____________________________________
                               - Linked List
                               - Stack
                               - Queue
-                    - g
+                    - Recursive Data Structure:
+                              - Tree
+
+          - Trees
+                    - Root:  Start of the tree
+                    - Node:  Index of the tree
+                    - Parent:  A node that has follow-on connections (children)
+                    - Children:  A node that has a predecesor (parent)
+                    - Sibling:  Nodes that share the same parent
+                    - Leaf:  A node that has no children
+                    - Depth:  Length of the path from the root to node 'x' (# of edges)
+                    - Height:  # of edges in the longest path from node 'x' to a leaf
 
           - Data Structures Selection Criteria
                     - What needs to be stored?
