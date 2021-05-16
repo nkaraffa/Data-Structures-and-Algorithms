@@ -6,7 +6,12 @@ Time Cheat Sheet (Big O)
 
 ____________________________________
 Terms:
-          - Big O :  time & memory complexity of a programming algorithm 
+          - Big O :  time & memory complexity of a programming algorithm
+          - v
+
+____________________________________
+Notes:
+          - f
 
 
 ____________________________________
