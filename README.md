@@ -3,16 +3,30 @@ ____________________________________
 
 ## Time Cheat Sheet (Big O)
           - Arrays: 
+                    - Accessing index:  O(1)
+                    - Inserting, Deleting, Modifying:  O(n)
+          - Linked List
+                    - Accessing index, Inserting, Deleting:  O(n)
 
 ____________________________________
 ## Terms:
           - Big O :  time & memory complexity of a programming algorithm
-          - v
 
 ____________________________________
 ## Notes:
-          - f
+          - Data Structures
+                    - Linear Data Structure:  (Data is listed sequentially)
+                              - Array
+                              - Linked List
+                              - Stack
+                              - Queue
+                    - g
 
+          - Data Structures Selection Criteria
+                    - What needs to be stored?
+                    - Cost of operations?
+                    - Memory usage?
+                    - Ease of Implementation?
 
 ____________________________________
 ## Sources: 
