@@ -13,6 +13,7 @@ ____________________________________
 ## Terms:
           - Big O :  time & memory complexity of a programming algorithm
                     - Items that affect runtime length: programming language, hardware, methods, # of tasks running
+                    
           - Time Complexity : modeling runtime as a function increases in complexity or size
                     - Linear Time: linear relationship between runtime and additional resources
                               - Notation: O(n)
