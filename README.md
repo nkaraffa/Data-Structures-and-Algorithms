@@ -23,6 +23,7 @@ ____________________________________
                               - Queue
                     - Recursive Data Structure:
                               - Tree
+                              - Graph
 
           - Trees
                     - Root:  Start of the tree
