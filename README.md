@@ -30,6 +30,7 @@ ____________________________________
                               - Linked List
                               - Stack
                               - Queue
+                              - Dictionary (or Hashtable)
                     - Recursive Data Structure:
                               - Tree
                               - Graph
