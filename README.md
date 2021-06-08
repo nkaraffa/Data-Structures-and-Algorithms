@@ -50,8 +50,19 @@ ____________________________________
                     - Cost of operations?
                     - Memory usage?
                     - Ease of Implementation?
+                    
+____________________________________
+## Algorithms
+
+          - Sorting Alogirthms
+                    - Bubble Sort (Simplest Sort)
+                    - Sliding Window
+                    - Two Pointers
+                    - Fast & Slow Pointers
+                    - Modified Binary Search
 
 ____________________________________
 ## Sources: 
           - mycodeschool:      https://www.youtube.com/watch?v=NobHlGUjV3g&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=4
           - Big O Notation:    https://web.mit.edu/16.070/www/lecture/big_o.pdf
+          - Sorting Algorithms:         https://dev.to/fahimulhaq/14-patterns-to-ace-any-coding-interview-question-d9g
